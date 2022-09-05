@@ -1,0 +1,63 @@
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    background-color: thistle;
+} 
+
+
+.main-heading h1{
+    text-align: center;
+    font-family: cursive;
+    color: darkred;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+
+}
+
+.groups-name{
+    background-color: white;
+    box-shadow: 5px 10px 8px #888888;
+    margin-top: 10px;
+    padding-bottom: 20px;
+   
+
+}
+
+.groups-name h1{
+    text-align: center;
+    letter-spacing: 0.2em;
+    font-family: cursive;
+    color: dodgerblue;
+    border-bottom: 4px solid gainsboro;
+
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th{
+    font-size: 25px;
+    font-weight: bolder;
+    letter-spacing: 00.1em;
+    color: deeppink;
+    border-right: 3px solid gainsboro;
+    padding: 4px 10px;
+
+
+ 
+}
+
+td{
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 40px;
+    border-right: 3px solid gainsboro;
+
+}
+
